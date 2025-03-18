@@ -1,4 +1,4 @@
-# Calculadora de Números
+# Calculadora de Conversiones
 
 Esta es una calculadora que permite realizar operaciones con números en diferentes sistemas numéricos: decimales, binarios, octales y hexadecimales. La aplicación está desarrollada en Python 3.10 utilizando la biblioteca Tkinter para la interfaz gráfica.
 
