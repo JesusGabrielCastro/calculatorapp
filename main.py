@@ -4,8 +4,8 @@ from Modelo.decimal.decimal import Decimal as decimal
 from Modelo.hexadecimal.hexadecimal import Hexadecimal as hexadecimal
 from Modelo.octal.octal import Octal as octal
 
-
-
+#
+#
 class Aplicacion:
     def __init__(self, root):
         self.root = root
